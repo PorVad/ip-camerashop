@@ -39,21 +39,11 @@ Each camera is stored as a JSON object with the following structure:
 * UI interactions update `localStorage`
 * The interface reflects changes dynamically
 
----
-
-## 📸 Screenshots
-
-*(Add screenshots here if you want — it will make your project look more professional)*
-
----
-
 ## Known Limitations
 
 * Uses `localStorage` instead of a real backend
 * Page reloads are used after some actions (will be improved)
 * Inline event handlers are present (planned refactor)
-
----
 
 ## Future Improvements
 
@@ -63,8 +53,6 @@ Each camera is stored as a JSON object with the following structure:
 * Refactor code into ES6 modules
 * Improve UI/UX and responsiveness
 * Connect to a real backend (API)
-
----
 
 ## Author
 
